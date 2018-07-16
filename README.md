@@ -8,7 +8,7 @@ The project aims to develop a turbulence model to help in testing and improving 
 
 **How to run**
 
-- ![simplex_update.html](https://placehold.it/15/f03c15/000000?text=+) `implex_update.html`
+- ![simplex_update.html](https://placehold.it/15/f03c15/000000?text=+) `simplex_update.html`
 
 Open simplex_update.html and adjust the parameters to see the change.
 
